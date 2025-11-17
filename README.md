@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 14-11-25
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -60,8 +60,24 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1920" height="1200" alt="Screenshot (421)" src="https://github.com/user-attachments/assets/2659552e-078f-4ade-839b-374ffda02601" />
+
+<img width="1920" height="1200" alt="Screenshot (422)" src="https://github.com/user-attachments/assets/9d3576ac-1966-4062-87c5-8afd60bc885c" />
+
+<img width="1920" height="1200" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/7aa665e1-cc1e-4a9d-8139-7ed70bd71eea" />
+
+<img width="1920" height="1200" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/9094dbab-001f-491b-b9bc-57054c1735ff" />
+
+<img width="1920" height="1200" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/a34301e4-4372-45de-bfc8-d466f489ea94" />
+
+
+
+
+
+
+### Name: MOHANA PRIYA R
+
+### Register Number:212224220065
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
